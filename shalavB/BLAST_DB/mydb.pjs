@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "mydb",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "C:\\BLAST_DB\\mydb.fasta",
+  "number-of-letters": 41161277,
+  "number-of-sequences": 2299,
+  "last-updated": "2024-06-30T18:54:00",
+  "number-of-volumes": 1,
+  "bytes-total": 42399193,
+  "bytes-to-cache": 41182069,
+  "files": [
+    "mydb.pdb",
+    "mydb.phr",
+    "mydb.pin",
+    "mydb.pot",
+    "mydb.psq",
+    "mydb.ptf",
+    "mydb.pto"
+  ]
+}

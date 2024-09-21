@@ -1,0 +1,13 @@
+User Help Guide
+1. Data Cleaning
+File Structure: Place data files in DB (contains ADHD_DB and Control_DB).
+Run Clean_EEG.py: Cleans data and saves it in Clean_DB.
+2. EEG Analysis
+Option A: BLAST
+
+Run BLAST.py: Processes cleaned data, saves results in BLAST_DB. You can adjust time segments, overlap, and file name.
+Option B: Order-Preserving Matching
+
+Run Order_Preserving_Matching.py: Processes data, saves results in Order_Preserving_Matching. You can adjust downsampling rate and file name.
+3. Classification
+Run Classification.py: Specify result file name for classification and run the script.
